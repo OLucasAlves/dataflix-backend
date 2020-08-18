@@ -1,0 +1,35 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "title": "Saúde",
+        "approved": "true"
+      },
+      {
+        "id": 2,
+        "title": "Obras",
+        "approved": "true"
+      }
+    ],
+    "dashboards": [
+      {
+        "id": 1,
+        "categoryId": 1,
+        "title": "Covid-19",
+        "description": "Análise dos dados da Covid-19 no Brasil, usando como fonte dados do Ministério da saúde e Secretarias de saúde.",
+        "type": "Tableau",
+        "approved": "true",
+        "url": "https://public.tableau.com/profile/lucas.alves#!/vizhome/covid-19_15846311132790/Covid-19"
+      },
+      {
+        "id": 1,
+        "categoryId": 2,
+        "title": "Covid-19",
+        "description": "Prefeitura de Fortaleza - Realizacoes Entre 2012 e 2016",
+        "type": "Tableau",
+        "approved": "true",
+        "url": "https://public.tableau.com/profile/lucas.alves#!/vizhome/PrefeituradeFortaleza-RealizacoesEntre2012e2016/RealizacoesdaPrefeituraMunicipal"
+      }
+      
+    ]
+  }
